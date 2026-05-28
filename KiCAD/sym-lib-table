@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "SquashedFly_Logo")(type "Legacy")(uri "${KIPRJMOD}/Libraries/SquashedFly Logo/SquashedFly Logo.lib")(options "")(descr ""))
+  (lib (name "TC2030-IDC")(type "Legacy")(uri "${KIPRJMOD}/Libraries/TC2030-IDC/TC2030-IDC.lib")(options "")(descr ""))
+  (lib (name "ruler-rescue")(type "Legacy")(uri "${KIPRJMOD}/ruler-rescue.lib")(options "")(descr ""))
+)
